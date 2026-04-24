@@ -1,0 +1,42 @@
+[18-Apr-2026 15:05:48 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php:32
+Stack trace:
+#0 /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdf_tpl.php(20): require_once()
+#1 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php on line 32
+[18-Apr-2026 15:05:49 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php:32
+Stack trace:
+#0 /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdf_tpl.php(20): require_once()
+#1 /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi.php(20): require_once('/home/instytut/...')
+#2 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php on line 32
+[18-Apr-2026 15:05:49 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php on line 32
+[18-Apr-2026 15:05:49 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php on line 133
+[18-Apr-2026 15:05:49 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php on line 154
+[18-Apr-2026 15:05:49 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDI' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php on line 18
+[22-Apr-2026 15:59:48 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php:32
+Stack trace:
+#0 /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdf_tpl.php(20): require_once()
+#1 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php on line 32
+[22-Apr-2026 15:59:48 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php:32
+Stack trace:
+#0 /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdf_tpl.php(20): require_once()
+#1 /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi.php(20): require_once('/home/instytut/...')
+#2 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php on line 32
+[22-Apr-2026 15:59:49 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_bridge.php on line 32
+[22-Apr-2026 15:59:49 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php on line 133
+[22-Apr-2026 15:59:49 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php on line 154
+[22-Apr-2026 15:59:49 UTC] PHP Fatal error:  Uncaught Error: Class 'FPDI' not found in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/instytut/public_html/wp-content/plugins/woocommerce-pdf-watermark/includes/lib/fpdi/fpdi_protection.php on line 18
